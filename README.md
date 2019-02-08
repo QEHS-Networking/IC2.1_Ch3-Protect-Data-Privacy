@@ -32,6 +32,22 @@ Chapter Planning and Handouts
 11. Review Cue Cards (Ch 3 Terms and Concepts Practice)
 12. Complete Ch 3 Quiz
 
+## Additional Readings of Chapter 3
+
+Note: Additional information and questions can be Googled or asked of guest speakers using this vocabulary
+
+All Your Devices Can Be Hacked
+- The use of electronics within the human body turns that person’s body into a cyber target, just like any computer or cell phone. At the TEDx MidAtlantic conference in 2011, Avi Rubin explained how hackers are compromising cars, smart phones, and medical devices. He warned us about the dangers of an increasingly "hackable" world. For more information, watch Mr. Rubin’s presentation in the following link:
+- http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked.htm
+
+OnGuard Online
+This website provides a wealth of information regarding how to stay safe online, such as securing your computers, avoiding scams, being smart online, and protecting kids online.
+- http://www.onguardonline.gov/
+
+National Institute of Standards and Technology (NIST)
+- President Obama issued Executive Order 13636 (EO), “Improving Critical Infrastructure Cybersecurity.” As part of this Executive Order, NIST was directed to work with stakeholders to develop a voluntary framework, to include standards, guidelines, and best practices, for the purpose of reducing cyber risks to critical infrastructure. To learn more about this Executive Order and the NIST framework in development, visit the following link:
+- http://www.nist.gov/cyberframework
+
 ## Contents of this Repo
 Note: PDF files can be typed in, also able to download these from Cisco Academy
 
@@ -48,3 +64,10 @@ Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Aca
 - 3.1.2.5 Lab - Who Owns Your Data.pdf
 - 3.2.2.3 Lab - Discover Your Own Risky Online Behavior.docx
 - 3.2.2.3 Lab - Discover Your Own Risky Online Behavior.pdf
+
+---
+
+# To Include
+
+
+---
